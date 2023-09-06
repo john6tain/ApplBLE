@@ -2,7 +2,7 @@
 #include <gui/elements.h>
 #include <furi_hal_bt.h>
 #include <assets_icons.h>
-#include "apple_ble_spam_icons.h"
+//#include "apple_ble_spam_icons.h"
 
 #include "lib/continuity/continuity.h"
 

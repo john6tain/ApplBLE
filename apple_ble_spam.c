@@ -2,9 +2,9 @@
 #include <gui/elements.h>
 #include <furi_hal_bt.h>
 #include <assets_icons.h>
-#include "apple_ble_spam_icons.h"
+#include <apple_ble_spam_icons.h>
 
-//#include "lib/continuity/continuity.h"
+#include "lib/continuity/continuity.h"
 
 typedef struct {
     const char* title;

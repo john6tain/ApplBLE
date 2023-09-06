@@ -4,7 +4,7 @@
 #include <assets_icons.h>
 #include "apple_ble_spam_icons.h"
 
-#include "lib/continuity/continuity.h"
+//#include "lib/continuity/continuity.h"
 
 typedef struct {
     const char* title;
